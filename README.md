@@ -32,11 +32,11 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)
+- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
 
 ## 📌 Acknowledgments
 
-- Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
 - This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+
