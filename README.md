@@ -4,7 +4,7 @@ This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"*
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://business-landing-page-0012.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://heistejiri.github.io/Business-Landing-Page/">**Visit Now** 🚀</a>
 
 <br>
 
